@@ -1,4 +1,6 @@
-# sentiment-analysis
+# Financial Sentiment Analysis
+
+The project addresses the problem of analysing a financial declaration and classifying it as a positive or a negative statement.
 
 **Members:**
 1. Ashutosh Ojha
