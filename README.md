@@ -5,7 +5,7 @@
 
 # Financial Sentiment Analysis
 
-The project addresses the problem of analysing a financial declaration and classifying it as a positive or a negative statement.
+Machine Learning project to analyse and classify a financial declaration as a positive or a negative statement. This is a binary classification task related to the domain of NLP.
 
 **Members:**
 1. Ashutosh Ojha
