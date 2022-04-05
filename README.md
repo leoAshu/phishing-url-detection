@@ -1,4 +1,7 @@
-![Financial Sentiment Analysis](images/cover.jpg)
+<br>
+<p align="center">
+    <image src="images/cover.jpg"  width="1280" height="auto">
+</p>
 
 # Financial Sentiment Analysis
 
