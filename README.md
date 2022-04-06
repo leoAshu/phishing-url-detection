@@ -17,6 +17,9 @@ This is a 3-class classification task which is related to the domain of Natural 
     - `Sentence` &nbsp;&nbsp;- contains the financial statements
     - `Sentiment` - contains the labels associated with corresponding statements
     
-** Team Members:**
+**Team Members:**
 1. Ashutosh Ojha
+2. Anujot Singh
+3. Ilisha Aggarwal
+4. Subhadra Ranga Swamy Yella
 
