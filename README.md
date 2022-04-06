@@ -16,7 +16,8 @@ This is a 3-class classification task which is related to the domain of Natural 
 - There are two columns in the dataset:
     - `Sentence` &nbsp;&nbsp;- contains the financial statements
     - `Sentiment` - contains the labels associated with corresponding statements
-    
+
+
 **Team Members:**
 1. Ashutosh Ojha
 2. Anujot Singh
