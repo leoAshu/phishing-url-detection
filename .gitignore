@@ -1,3 +1,8 @@
 # Ignore jupyter notebook checkpoint
 .ipynb_checkpoints
+
+# ignore documents folder
 docs/
+
+# ignore __pycache__ in scripts folder
+scripts/__pycache__
