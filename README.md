@@ -6,9 +6,7 @@
 
 This is an academic project based on Machine Learning. The objective of the project is to analyse a financial statement and assign a sentiment label to it.
     
-There are three types of sentiments that can be associated with a statement: `positive`, `negative`, `neutral`.
-
-This is a 3-class classification task which is related to the domain of Natural Language Processing(NLP).
+This is a 3-class classification task which is related to the domain of Natural Language Processing(NLP). There are three types of sentiments that can be associated with a statement: `positive`, `negative`, `neutral`.
     
 ## Data:
 - Source: [Kaggle](https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis)
