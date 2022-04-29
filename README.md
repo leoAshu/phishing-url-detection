@@ -18,6 +18,9 @@ At its core, this is a 2-class classification problem. The project uses data min
 ## Problem Statement:
 Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message.
 These attacks are becoming very common as more and more people start using online banking and the internet becomes ubiquitous.
+    
+## Potential Methods:
+A strategy is used to implement data mining algorithms to identify phishing websites by tracking the URL, in an attempt to limit phishing attacks. Attacks happen when attackers modify the filepath and subdomain or introduce an error to resemble the original website. To identify such websites, one needs to go through the URL and identify each of the elements in it. The strategies for this to work can be Logistic regression, Naive Bayes Classifier, KNN and XGB Boost.
 
 ## Team Members:
 1. Anujot Singh
