@@ -15,6 +15,10 @@ At its core, this is a 2-class classification problem. The project uses data min
 - Each url is represented using **111** features based on which a url is labeled as phishing url or not.
 - The dataset is fairly unbalanced with the number of legitimate urls roughly double the number of malicious urls.
 
+## Problem Statement:
+Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message.
+These attacks are becoming very common as more and more people start using online banking and the internet becomes ubiquitous.
+
 ## Team Members:
 1. Anujot Singh
 2. Ashutosh Ojha
