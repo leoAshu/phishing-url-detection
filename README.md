@@ -1,6 +1,6 @@
-<!-- <p align="center">
-    <image src="images/cover.jpg"  width="1280" height="auto">
-</p> -->
+<p align="center">
+    <image src="images/cover.png"  width="1280" height="auto">
+</p>
 
 # Phishing URL Detection
 
