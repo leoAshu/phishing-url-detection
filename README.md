@@ -21,6 +21,9 @@ These attacks are becoming very common as more and more people start using onlin
     
 ## Potential Methods:
 A strategy is used to implement data mining algorithms to identify phishing websites by tracking the URL, in an attempt to limit phishing attacks. Attacks happen when attackers modify the filepath and subdomain or introduce an error to resemble the original website. To identify such websites, one needs to go through the URL and identify each of the elements in it. The strategies for this to work can be Logistic regression, Naive Bayes Classifier, KNN and XGB Boost.
+    
+## Measurement of Success
+ The project's purpose is to find the most accurate data mining algorithm in order to identify a fraudulent website that takes personal information from consumers.
 
 ## Team Members:
 1. Anujot Singh
